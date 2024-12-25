@@ -1,0 +1,87 @@
+{
+    "students": [
+        {
+            "name": "Anisul Islam",
+            "middleName": null,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "languages": ["Bengli", "English", "Hindi"],
+            "friends": [
+                {
+                    "name": "Anar",
+                    "age": 25,
+                    "favApps": ["YouTube", "VS Code", "Telegram"]
+                },
+                {
+                    "name": "Ruhul",
+                    "age": 35,
+                    "favApps": ["YouTube", "VS Code", "Instagram"]
+                }
+            ]
+        },
+        {
+            "name": "Sadman Islam",
+            "middleName": null,
+            "cgpa": 4.44,
+            "isRegistered": false,
+            "languages": ["Bengli", "English"],
+            "friends": [
+                {
+                    "name": "Arkan",
+                    "age": 17,
+                    "favApps": ["YouTube", "VS Code", "Telegram", "Facebook"]
+                },
+                {
+                    "name": "Ali",
+                    "age": 26,
+                    "favApps": ["TikTok", "Facebook", "Notion"]
+                }
+            ]
+        }
+    ],
+
+    "friends": [
+        {
+            "name": "Anisul Islam",
+            "middleName": null,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "languages": ["Bengli", "English", "Hindi"],
+            "friends": [
+                {
+                    "name": "Anar",
+                    "age": 25,
+                    "favApps": ["YouTube", "VS Code", "Telegram"]
+                },
+                {
+                    "name": "Ruhul",
+                    "age": 35,
+                    "favApps": ["YouTube", "VS Code", "Instagram"]
+                }
+            ]
+        },
+        {
+            "name": "Sadman Islam",
+            "middleName": null,
+            "cgpa": 4.44,
+            "isRegistered": false,
+            "languages": ["Bengli", "English"],
+            "friends": [
+                {
+                    "name": "Arkan",
+                    "age": 17,
+                    "favApps": ["YouTube", "VS Code", "Telegram", "Facebook"]
+                },
+                {
+                    "name": "Ali",
+                    "age": 26,
+                    "favApps": ["TikTok", "Facebook", "Notion"]
+                }
+            ]
+        }
+    ]
+
+}
+
+
+

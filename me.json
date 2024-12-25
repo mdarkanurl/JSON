@@ -1,0 +1,36 @@
+{
+    "myInfo": {
+        "name": "Mohammad Arkan",
+        "age": 17,
+        "relationsStatus": "Single",
+        "friends": [
+            {
+                "name": "Jovan Ahmed",
+                "age": 25
+            },
+            {
+                "name": "Mohammad Ali",
+                "age": 35
+            }],
+            "hasGirlFriend": null,
+            "cgpa": 3.56
+        
+    },
+    "iWannaInfo": {
+        "name": "Mohammad Arkan",
+        "age": 17,
+        "relationsStatus": "Maried",
+        "friends": [
+            {
+                "name": "Jovan Ahmed",
+                "age": 25
+            },
+            {
+                "name": "Mohammad Ali",
+                "age": 35
+            }],
+            "hasGirlFriend": null,
+            "cgpa": 4.86
+
+    }
+}

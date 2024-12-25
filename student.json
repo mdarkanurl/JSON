@@ -1,0 +1,37 @@
+{
+    "student": [
+        {
+            "name": "Mohammad Arkan",
+            "middelName": null,
+            "age": 17,
+            "cgpa": 3.56,
+            "isRegistered": true,
+            "languages": ["Bengali", "Engilsh", "Hindi"],
+            "friends": [
+                {
+                    "name": "Jovan Ahmed",
+                    "age": 17
+                },
+                {
+                    "name": "Mohammad Ali",
+                    "age": 25
+                }
+            ]
+        }
+    ], "name": "Anure Mohammad",
+            "middelName": null,
+            "age": 35,
+            "cgpa": 4.83,
+            "isRegistered": false,
+            "languages": ["Bengali", "Engilsh"],
+            "friends": [
+                {
+                    "name": "Jovan Ahmed",
+                    "age": 17
+                },
+                {
+                    "name": "Mohammad Ali",
+                    "age": 25
+                }
+            ]
+}
